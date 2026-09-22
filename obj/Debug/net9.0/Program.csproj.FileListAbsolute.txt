@@ -1,0 +1,14 @@
+/run/csi/mount-root/nas/eab0d61a99b6696edb3d2aff87b585e8/repos/polyvocoder-csharp/obj/Debug/net9.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/run/csi/mount-root/nas/eab0d61a99b6696edb3d2aff87b585e8/repos/polyvocoder-csharp/obj/Debug/net9.0/Program.AssemblyInfoInputs.cache
+/run/csi/mount-root/nas/eab0d61a99b6696edb3d2aff87b585e8/repos/polyvocoder-csharp/obj/Debug/net9.0/Program.AssemblyInfo.cs
+/run/csi/mount-root/nas/eab0d61a99b6696edb3d2aff87b585e8/repos/polyvocoder-csharp/obj/Debug/net9.0/Program.csproj.CoreCompileInputs.cache
+/run/csi/mount-root/nas/eab0d61a99b6696edb3d2aff87b585e8/repos/polyvocoder-csharp/bin/Debug/net9.0/Program
+/run/csi/mount-root/nas/eab0d61a99b6696edb3d2aff87b585e8/repos/polyvocoder-csharp/bin/Debug/net9.0/Program.deps.json
+/run/csi/mount-root/nas/eab0d61a99b6696edb3d2aff87b585e8/repos/polyvocoder-csharp/bin/Debug/net9.0/Program.runtimeconfig.json
+/run/csi/mount-root/nas/eab0d61a99b6696edb3d2aff87b585e8/repos/polyvocoder-csharp/bin/Debug/net9.0/Program.dll
+/run/csi/mount-root/nas/eab0d61a99b6696edb3d2aff87b585e8/repos/polyvocoder-csharp/bin/Debug/net9.0/Program.pdb
+/run/csi/mount-root/nas/eab0d61a99b6696edb3d2aff87b585e8/repos/polyvocoder-csharp/obj/Debug/net9.0/Program.dll
+/run/csi/mount-root/nas/eab0d61a99b6696edb3d2aff87b585e8/repos/polyvocoder-csharp/obj/Debug/net9.0/refint/Program.dll
+/run/csi/mount-root/nas/eab0d61a99b6696edb3d2aff87b585e8/repos/polyvocoder-csharp/obj/Debug/net9.0/Program.pdb
+/run/csi/mount-root/nas/eab0d61a99b6696edb3d2aff87b585e8/repos/polyvocoder-csharp/obj/Debug/net9.0/Program.genruntimeconfig.cache
+/run/csi/mount-root/nas/eab0d61a99b6696edb3d2aff87b585e8/repos/polyvocoder-csharp/obj/Debug/net9.0/ref/Program.dll
